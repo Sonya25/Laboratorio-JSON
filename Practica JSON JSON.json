@@ -1,0 +1,159 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "Carrefour Market",
+            "direccion:": "Calle de Fuencarral, 158, 28010 Madrid",
+            "lugar": "Madrid",
+            "horarioApertura": "24h",
+            "geolocalizacion": [
+                {
+                    "latitud": "40.433332",
+                    "longitud": "-3.703843"
+                }
+            ],
+            "departamentos": [
+                {
+                    "productos frescos": [
+                        {
+                            "nombre": "Plátano de Canarias",
+                            "origen": "Canarias",
+                            "unidad de medida": "kg",
+                            "precio": "3,08€/kg",
+                            "oferta": "2º unidad al -70%€",
+                            "periodo de vigencia": "De 25/05/2022 a 09/06/2022",
+                            "formato": "Bandeja",
+                            "habitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Guacamole",
+                            "marca": "Carrefour",
+                            "unidad de medida": "kg",
+                            "precio": "7,45€/kg",
+                            "oferta": "Compra dos unidades, Ahorra la segunda. Descuento aplicable sobre el de menor importe.",
+                            "periodo de vigencia": "De 25/05/2022 a 09/06/2022",
+                            "formato": "Tarrina",
+                            "habitual": false,
+                            "adquirido": false
+                        }
+                    ],
+                    "bebidas": [
+                        {
+                            "nombre": "Agua mineral 6,25l",
+                            "marca": "Font Vella",
+                            "origen": "Sigüenza - Guadalajara",
+                            "unidad de medida": "l",
+                            "precio": "0,34€/l",
+                            "oferta": "3x2",
+                            "periodo de vigencia": "De 25/05/2022 a 09/06/2022",
+                            "formato": "Garrafa de 5l",
+                            "habitual": false,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Pepsi Max Zero",
+                            "marca": "Pepsi",
+                            "unidad de medida": "l",
+                            "precio": "1,87€/l",
+                            "oferta": "5€ de descuento por compra superior a 15€",
+                            "periodo de vigencia": "De 25/05/2022 a 09/06/2022",
+                            "formato": "Pack de 12 latas",
+                            "habitual": false,
+                            "adquirido": false
+                        }
+                    ],
+                    "mascotas": [
+                        {
+                            "nombre": "Pienso de conejo, pollo y verdura para gato adulto",
+                            "marca": "Purina friskies",
+                            "unidad de medida": "kg",
+                            "precio": "2,24€/kg",
+                            "oferta": "Comprando 3 unidades, te regalamos la unidad de menor importe", 
+                            "periodo de vigencia": "De 25/05/2022 a 09/06/2022",
+                            "formato": "Saco de 4kg",
+                            "habitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Comida húmeda de pollo,buey, atún y salmón para gato adulto",
+                            "marca": "Purina Gourmet Gold",
+                            "unidad de medida": "kg",
+                            "precio": "7,15€/kg",
+                            "oferta": null,
+                            "periodo de vigencia": null,
+                            "formato": "Pack de 12 latas",
+                            "habitual": true,
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mi Alcampo",
+            "direccion:": "C. de Hilarión Eslava, 10, 28015 Madrid",
+            "lugar": "Madrid",
+            "horarioApertura": "Lunes a Sábado: 9 - 21:00h",
+            "geolocalizacion": [
+                {
+                    "latitud": "40.445580",
+                    "longitud": "-3.701958"
+                }
+            ],
+            "departamentos": [
+                {
+                    "frios y congelados": [
+                        {
+                            "nombre": "Pizza fresca de jamón y queso",
+                            "marca": "Casa Tarradellas",
+                            "unidad de medida": "Unidad",
+                            "precio": "2,86€",
+                            "oferta": null,
+                            "periodo de vigencia": null,
+                            "formato": "Individual",
+                            "habitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Pizza fresca de jamón y queso",
+                            "marca": "Buitoni",
+                            "unidad de medida": "Unidad",
+                            "precio": "3,45€",
+                            "oferta": "2º unidad -50%: 1,72€",
+                            "periodo de vigencia": "Oferta válida hasta el 07/06/2022",
+                            "formato": "Individual",
+                            "habitual": false,
+                            "adquirido": false
+                        }
+                    ],
+                    "pasteleria": [
+                        {
+                            "nombre": "Tarta tres chocolates",
+                            "origen": "España",
+                            "unidad de medida": "kg",
+                            "precio": "14,63€/kg",
+                            "oferta": "Precio rebajado",
+                            "periodo de vigencia": "Oferta válida hasta el 07/06/2022",
+                            "formato": "Porción de 300g",
+                            "habitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Postre de Tiramisú",
+                            "origen": "España",
+                            "unidad de medida": "kg",
+                            "precio": "1€ (12,50€/kg)",
+                            "oferta": "Precio rebajado",
+                            "periodo de vigencia": "Sin Stock",
+                            "formato": "Porción de 80g",
+                            "habitual": true,
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+

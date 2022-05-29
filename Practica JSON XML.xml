@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Supermercados>
+    <nombre>Carrefour Market</nombre>
+    <direccion__HI__>Calle de Fuencarral, 158, 28010 Madrid</direccion__HI__>
+    <lugar>Madrid</lugar>
+    <horarioApertura>24h</horarioApertura>
+    <geolocalizacion array="true">
+      <latitud>40.433332</latitud>
+      <longitud>-3.703843</longitud>
+    </geolocalizacion>
+    <departamentos array="true">
+      <productos__EA__frescos>
+        <nombre>Plátano de Canarias</nombre>
+        <origen>Canarias</origen>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>3,08€/kg</precio>
+        <oferta>2º unidad al -70%€</oferta>
+        <periodo__EA__de__EA__vigencia>De 25/05/2022 a 09/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Bandeja</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">true</adquirido>
+      </productos__EA__frescos>
+      <productos__EA__frescos>
+        <nombre>Guacamole</nombre>
+        <marca>Carrefour</marca>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>7,45€/kg</precio>
+        <oferta>Compra dos unidades, Ahorra la segunda. Descuento aplicable sobre el de menor importe.</oferta>
+        <periodo__EA__de__EA__vigencia>De 25/05/2022 a 09/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Tarrina</formato>
+        <habitual boolean="true">false</habitual>
+        <adquirido boolean="true">false</adquirido>
+      </productos__EA__frescos>
+      <bebidas>
+        <nombre>Agua mineral 6,25l</nombre>
+        <marca>Font Vella</marca>
+        <origen>Sigüenza - Guadalajara</origen>
+        <unidad__EA__de__EA__medida>l</unidad__EA__de__EA__medida>
+        <precio>0,34€/l</precio>
+        <oferta>3x2</oferta>
+        <periodo__EA__de__EA__vigencia>De 25/05/2022 a 09/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Garrafa de 5l</formato>
+        <habitual boolean="true">false</habitual>
+        <adquirido boolean="true">true</adquirido>
+      </bebidas>
+      <bebidas>
+        <nombre>Pepsi Max Zero</nombre>
+        <marca>Pepsi</marca>
+        <unidad__EA__de__EA__medida>l</unidad__EA__de__EA__medida>
+        <precio>1,87€/l</precio>
+        <oferta>5€ de descuento por compra superior a 15€</oferta>
+        <periodo__EA__de__EA__vigencia>De 25/05/2022 a 09/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Pack de 12 latas</formato>
+        <habitual boolean="true">false</habitual>
+        <adquirido boolean="true">false</adquirido>
+      </bebidas>
+      <mascotas>
+        <nombre>Pienso de conejo, pollo y verdura para gato adulto</nombre>
+        <marca>Purina friskies</marca>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>2,24€/kg</precio>
+        <oferta>Comprando 3 unidades, te regalamos la unidad de menor importe</oferta>
+        <periodo__EA__de__EA__vigencia>De 25/05/2022 a 09/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Saco de 4kg</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">true</adquirido>
+      </mascotas>
+      <mascotas>
+        <nombre>Comida húmeda de pollo,buey, atún y salmón para gato adulto</nombre>
+        <marca>Purina Gourmet Gold</marca>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>7,15€/kg</precio>
+        <oferta null="true"/>
+        <periodo__EA__de__EA__vigencia null="true"/>
+        <formato>Pack de 12 latas</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">false</adquirido>
+      </mascotas>
+    </departamentos>
+  </Supermercados>
+  <Supermercados>
+    <nombre>Mi Alcampo</nombre>
+    <direccion__HI__>C. de Hilarión Eslava, 10, 28015 Madrid</direccion__HI__>
+    <lugar>Madrid</lugar>
+    <horarioApertura>Lunes a Sábado: 9 - 21:00h</horarioApertura>
+    <geolocalizacion array="true">
+      <latitud>40.445580</latitud>
+      <longitud>-3.701958</longitud>
+    </geolocalizacion>
+    <departamentos array="true">
+      <frios__EA__y__EA__congelados>
+        <nombre>Pizza fresca de jamón y queso</nombre>
+        <marca>Casa Tarradellas</marca>
+        <unidad__EA__de__EA__medida>Unidad</unidad__EA__de__EA__medida>
+        <precio>2,86€</precio>
+        <oferta null="true"/>
+        <periodo__EA__de__EA__vigencia null="true"/>
+        <formato>Individual</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">true</adquirido>
+      </frios__EA__y__EA__congelados>
+      <frios__EA__y__EA__congelados>
+        <nombre>Pizza fresca de jamón y queso</nombre>
+        <marca>Buitoni</marca>
+        <unidad__EA__de__EA__medida>Unidad</unidad__EA__de__EA__medida>
+        <precio>3,45€</precio>
+        <oferta>2º unidad -50%: 1,72€</oferta>
+        <periodo__EA__de__EA__vigencia>Oferta válida hasta el 07/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Individual</formato>
+        <habitual boolean="true">false</habitual>
+        <adquirido boolean="true">false</adquirido>
+      </frios__EA__y__EA__congelados>
+      <pasteleria>
+        <nombre>Tarta tres chocolates</nombre>
+        <origen>España</origen>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>14,63€/kg</precio>
+        <oferta>Precio rebajado</oferta>
+        <periodo__EA__de__EA__vigencia>Oferta válida hasta el 07/06/2022</periodo__EA__de__EA__vigencia>
+        <formato>Porción de 300g</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">true</adquirido>
+      </pasteleria>
+      <pasteleria>
+        <nombre>Postre de Tiramisú</nombre>
+        <origen>España</origen>
+        <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+        <precio>1€ (12,50€/kg)</precio>
+        <oferta>Precio rebajado</oferta>
+        <periodo__EA__de__EA__vigencia>Sin Stock</periodo__EA__de__EA__vigencia>
+        <formato>Porción de 80g</formato>
+        <habitual boolean="true">true</habitual>
+        <adquirido boolean="true">false</adquirido>
+      </pasteleria>
+    </departamentos>
+  </Supermercados>
+</root>
